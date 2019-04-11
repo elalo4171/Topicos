@@ -1,0 +1,12 @@
+.tab-pane{
+    -fx-background-color: #FF847C;
+}
+.menu-bar{
+    -fx-background-color: #FF847C;
+}
+.tab{
+
+    -fx-background-color: #FF847C;
+    -fx-pref-height: 95px;
+    -fx-pref-width: 350px;
+}

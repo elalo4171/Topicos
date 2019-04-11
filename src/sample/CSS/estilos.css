@@ -1,0 +1,43 @@
+.root{
+    -fx-background-image:  url("/sample/Imagenes/fondo.jpeg"),url("/sample/Imagenes/logo.png");
+    -fx-background-size: auto, 400 500;
+    -fx-background-repeat: stretch, no-repeat;
+    -fx-background-position: center center;
+}
+
+.menu-bar{
+  -fx-background-color: #E88224;
+  -fx-border-color:  #00FF00;
+ -fx-border-width: 2;
+}
+
+/*#menu1{
+    -fx-background-color: #CCC;
+}
+
+#menu2{
+    -fx-background-color: #0F0;
+}
+
+#menu3{
+    -fx-background-color: #F00;
+}*/
+
+.menu:hover {
+    -fx-background-color: #000;
+}
+
+.menu-item{
+    -fx-background-color: #997f5b;
+    -fx-border-color:  #00FF00;
+}
+
+.menu-item .label{
+    -fx-background-color: #337f5b;
+}
+
+.label:hover{
+    -fx-font-size: 25 pt;
+}
+
+
